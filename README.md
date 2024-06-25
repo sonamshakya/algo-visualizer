@@ -18,6 +18,5 @@
  
 
   
-- ## [Demo Link](https://rgtechno.github.io/Sorting_Visualizer/) 
 
 
